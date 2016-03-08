@@ -23,3 +23,5 @@ As far as wall and ceiling aesthetics in the facility scale they would be left e
 The home system would consist of various kinds of walls in the size range of 1mx1m to 2mx4m, all sizes could connect, but not all configurations of all sizes would be compatible, to be very frank and speak to anyone who is trying already to do something like this project in the not first world, it should be inherently imposible to configure a situation where you shit where you eat. Sensors, power, lighting, mounts, would be built in. Insulation would also be configurable allowing for weather and sound proofing, in such cases the walls maybe thicker.
 
 In both the facility and home system the exterior aesthetic should be highly up to choice, a haunted house, a greek temple, a spaceship. The majority of this project is about the engineering and usability aspects of the system, and then to enable attachment of any kind of aesthetic facade.
+
+http://www.openbuilds.com/
